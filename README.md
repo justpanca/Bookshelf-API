@@ -5,6 +5,7 @@ dalam file ini terdapat sebuah folder bernama **src** yang berisi file **server.
 
 # instalasi
 1.clone repository ini https://github.com/justpanca/Bookshelf-API.git/
+
 2.pastikan folder anda terdapat npm install
 
 # cara menggunakan
