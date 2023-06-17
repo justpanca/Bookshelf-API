@@ -10,5 +10,7 @@ dalam file ini terdapat sebuah folder bernama **src** yang berisi file **server.
 
 # cara menggunakan
 1.Jalankan server menggunakan perintah **npm run dev** pada terminal anda
+
 2.Buka browser dan ketik http://localhost:9000/Bookself
+
 3.Gunakan postman untuk mengahapus ataupun menambahkan file
