@@ -13,4 +13,4 @@ dalam file ini terdapat sebuah folder bernama **src** yang berisi file **server.
 
 2.Buka browser dan ketik http://localhost:9000/Bookself
 
-3.Gunakan postman untuk mengahapus ataupun menambahkan file
+3.Gunakan postman untuk menguji aplikasi
